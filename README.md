@@ -13,7 +13,7 @@
 
 ## Live Dashboard 📈
 
-**[View The Full Interactive Dashboard on Tableau Public] (https://public.tableau.com/views/TheSimsPriorityGap/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+**View The Full Interactive Dashboard on Tableau Public [HERE](https://public.tableau.com/views/TheSimsPriorityGap/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
