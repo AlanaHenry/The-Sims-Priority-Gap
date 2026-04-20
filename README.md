@@ -39,6 +39,12 @@ The Sims 4 is marketed as a life simulation game but does its paid content actua
 
 ---
 
+## The Verdict 🧑‍⚖️
+
+The Sims 4 is sold as a life simulation game. A life simulator should get deeper and richer over time with new systems, new mechanics and new ways for players to live out virtual lives. Instead, 61.2% of a decade of paid content was clothing, furniture and decor. The simulation features players asked for the most have been absent for 12 years. A competitor launched in 2025 with those features already built in at $39.99. The data says yes: The Sims 4 forgot how to simulate life. Whether intentionally or not, the game shifted from simulating life to decorating it.
+
+---
+
 ## Visaulizations 🖼️
 
 | # | Chart Name | Chart Type | Data Source |
