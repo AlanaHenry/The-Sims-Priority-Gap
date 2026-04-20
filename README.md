@@ -126,12 +126,5 @@ Seven visualizations were built in Tableau Pubkic across seven different chart t
 
 --- 
 
-## Repository Contents 🔗
-
-| File | Description |
-| ---| ---|
-|
-
-
 ## Technical Note 🪞
 All data collection, analysis, and conclusions within this project were performed by the author.  Generative AI was used as an editorial tool to refine the tone and readability of the written reports, ensuring the findings are accessible to audiences of all backgrounds.
