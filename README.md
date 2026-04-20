@@ -11,31 +11,43 @@
 
 ---
 
-## Live Dashboard 📈
-
-**View The Full Interactive Dashboard on Tableau Public [HERE](https://public.tableau.com/views/TheSimsPriorityGap/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
-
----
-
 ## About This Project:📚
 
 The Sims 4 is marketed as a life simulation game but does its paid content actually reflect that? This project uses 10+ years of DLC data to find out whether EA’s content strategy matches the game’s core premise, and whether players asking for a deeper simulation are getting what they paid for.
 
 ---
 
+## Live Dashboard 📈
+
+**View The Full Interactive Dashboard on Tableau Public [HERE](https://public.tableau.com/views/TheSimsPriorityGap/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+
+---
+
+## Reports 📂
+
+📍[**Executive Summary**](Sims_Priority_Gap_Executive_Summary.pdf)  
+
+📍[**Project Charter**](The_Sims_Priority_Gap_Project_Charter.pdf)
+
+📍[**Project Report**](The_Sims_Priority_Gap_Project_Report.pdf)
+
+📍[**Excel Workbook**](SimsPriorityGap_Workboook_For_Viewing.xlsx)
+
+---
+
 ## Key Findings: 🔎
 
-🔶 **The Content Split:** 60 of 98 paid packs (61.2%) are classified as Aesthetic. Only 38 (38.8%) add new ways to play. 
+🌳 **The Content Split:** 60 of 98 paid packs (61.2%) are classified as Aesthetic. Only 38 (38.8%) add new ways to play. 
 
-🔶 **The Kit Effect:** Since Kits launched in 2021, Aesthetic content has made up over 70% of all new releases in almost ever year.
+🌳 **The Kit Effect:** Since Kits launched in 2021, Aesthetic content has made up over 70% of all new releases in almost ever year.
 
-🔶 **The Retail Value Split:** Cumulative Aesthetic retail value: $418.40 across 60 packs. Cumulative Simulation-rich vlaue: $1,089.62 across 38 packs. EA released      more than half the catalogue in the lower value category.
+🌳 **The Retail Value Split:** Cumulative Aesthetic retail value: $418.40 across 60 packs. Cumulative Simulation-rich vlaue: $1,089.62 across 38 packs. EA released      more than half the catalogue in the lower value category.
 
-🔶 **The Total Cost:** Owning the full game costs $1,568.01, on a game where the base game became free-to-play in 2022.
+🌳 **The Total Cost:** Owning the full game costs $1,568.01, on a game where the base game became free-to-play in 2022.
 
-🔶 **The Wait:** Open World, Color Wheel/Recolor Tool, and Driveable Cars have been requested since 2014. All three remian absent in 2026, even with every pack        purchased.
+🌳 **The Wait:** Open World, Color Wheel/Recolor Tool, and Driveable Cars have been requested since 2014. All three remian absent in 2026, even with every pack        purchased.
 
-🔶 **The Competition:** inZOI launched in March 2025 with open worlds, driveable cars, and color customization in its base game, for $39.99, no  paid DLC.
+🌳 **The Competition:** inZOI launched in March 2025 with open worlds, driveable cars, and color customization in its base game, for $39.99, no  paid DLC.
 
 ---
 
@@ -96,11 +108,31 @@ Packs with both elements were classified by dominant purpose.
 
 ---
 
+## Technical & Analytical Skills Applied 👨‍💻
+
+🤹‍♂️ **Data Cleaning:** Transforming raw, messy product lists into a structured dataset.
+
+🤹‍♂️**Exploratory Data Analysis (EDA)**: Investigating 12 years of trends to find the specific turning point in EA's content strategy.
+
+🤹‍♂️**Data Visualization:** Designing the interactive dashboard in Tableau to communicate financial and volume trends.
+
+🤹‍♂️**Time-Series Analysis:** Tracking the release frequency and cost changes of DLCs over a decade
+
+🤹‍♂️**Data Categorization:** Developing a custom classification system to separate 'Aesthetic' vs "Simulation-Rich' content.
+
+🤹‍♂️**Business Intelligence (BI)**: Turning historical product data into insights about EA's monetization strategy.
+
+🤹‍♂️**Quantitative Research:** Using numbers to verify a qualitative claim (the game is now aesthetic-focused).
+
+✨**Product Analytics:** Auditing the game content lifecycle and its shift in value over time.
+
+---
+
 ## Methodology Notes 🪜
 
 This projects follows a longitudinal content audit approach, analysing 98 paid DLC releases across a 12-year period (2014 to March 2026).
 
-**Step 1: Data Collection**
+**Step 1: Data Collection** 
 
 All 98 paid DLC packs were manually catalogued from EA's official Sims 4 store and Sims Wiki. Community-requested features were sourced from EA forums, Reddit, and YouTube. Competitor features were verified against official game descriptions and press coverage.
 
